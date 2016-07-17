@@ -1,0 +1,5 @@
+*.pyc
+__pycach__
+open
+db.sqlite3
+.DS_Store
